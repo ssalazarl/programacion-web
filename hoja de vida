@@ -1,0 +1,67 @@
+<DOCTYPE html>
+    <html >
+        <head>
+            <meta charset="UTF-8"/>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+            <meta name "viewport" content="width=device.width, initial-scal">
+            <title>Pagina wed sebastian salazar</title>
+              <link rel="stylesheet" href="/miestilo2.css">
+        </head>
+        <body class="fondo">
+            <img class="fotomia" src="/imagenes/yo.jpg" alt="fotografia">
+            <header class="datospersonales">
+                <h1 class="nombre"> sebastian salazar leon </h1>
+                <h2 class=" telefono ">322 592 7216</h2>
+                <img class="iconotelefono" src="/imagenes/imagen2.png" alt="logotelefono">
+                <img class="iconoemail" src="imagenes/image1.png" alt="logoemail">
+                <h2 class=" email">sebastiansalazar669@gmail.com</h2>
+                <h2 class="informatica">Estudiante de ingenieria informatica</h2>
+
+            </header>
+            <section class="presentacion">
+                <h2 class="sobremi:">Sobre mi: </h2>
+                <p class="parrafo">
+                    Soy una persona emprendedora, inteligente, con gran capacidad para trabajar en equipo y con ganas de aprender cosas nuevas. Soy una persona organizada, honesta, respetuosa . El motor de mi progreso diario es mi rápido aprendizaje y desempeño de mis funciones Realizando diferentes actividades
+
+                </p>
+                <section class="habilidades">
+                    <h2 class="sobremi:">Habilidades: </h2>
+                    <ul class="marco1">
+                        <li>Capacidad de manipular leguaje de programación java y c# </li>
+                        <li>base de datos Oracle 11g plsql y forms 6i basico</li>
+                        <li>Dynamics 365</li>
+                        <li>mantenimiento de pc</li>
+                        <li>redes de datos</li>
+                        <li>programación a base objetos</li>
+                        <li>facilidad para seguir instrucciones y generar resultados de calidad</li>
+                        <li>buen compañero y con capacidad de trabajar bajo presión</li>
+                       
+
+                    </ul>
+                    <section class="formacion">
+                        <h2 class="sobremi:">Formacion: </h2>
+                        <ul class="marco2">
+                            <li>Ingeniería de sistemas / institución universitaria de envigado : 7 semestre</li>
+                            <li>Secundaria /institución educativa la paz</li>
+                            
+                           
+    
+                        </ul>  
+                        <section class="referencias">
+                            <h2 class="refere:">Referencias: </h2>
+                            <ul class="marco2">
+                                <li>Alejandro Salazar Berrio 300 718 4343
+                                    Técnico en sistemas</li>
+                                <li>Andrés Salazar 302 586 9757
+                                    Diseñador grafico</li>
+                                
+                               
+        
+                            </ul>          
+            
+        </body>
+        
+            
+        
+
+    </html>
