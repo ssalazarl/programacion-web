@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name "viewport" content="width=device.width, initial-scal">
+        <title>Que es el modelo DOM</title>
+        </title>
+            <link rel="stylesheet" href="/estilointernet.css">
+    </head>
+    <body class="fondo">
+        <img src="/imagenes/internet.png" alt="">
+        
+    </body>
+    <section class="introduccion">
+        <h2 class="titulo"></h2>
+        <p class="parrafo">
+            Cuando navegamos por Internet, nos encontramos con una gran variedad de términos, mucho en inglés, y quizás muchos no los entendamos.
+
+            Como Internet está en constante evolución, es habitual que cada cierto tiempo vayan surgiendo nuevos vocablos. Al no estar muy familiarizados con esa terminología podemos perdernos.
+            
+            Para que no tengas dudas en KZgunea hemos elaborado un pequeño glosario de términos con algunos de los conceptos más utilizados en la red.
+
+        </p>
+        <section>
+            <h1 class="int">Descubre el glosario de términos utilizados en Internet</h1>
+            <img src="/imagenes/glosario.png" alt="glosario">
+
+            <p class="parrafo2">
+                <p class="parrafo">
+                    <h1 class="titulo"> Ancho de banda</h1>
+                    Es una medida que nos indica la velocidad de Internet, es decir, la velocidad de transmisión de datos de una línea de conexión. Se mide bps (bits por segundo), por ejemplo 32 kbps, 64 kbps, 1Mbps, etc.
+    
+                </p>
+    
+                <p class="parrafo3">
+                    <p class="parrafo">
+                       <h1 class="titulo"> Banner</h1>
+                        Se trata de un aviso publicitario dentro de una página web. Es un término inglés que se traduce como banderola. Haciendo Clic sobre él, te redirige al sitio del anunciante.
+                    </p>
+                    <p class="parrafo4">
+                        <p class="parrafo">
+                           <h1 class="titulo"> Cache</h1>
+                           Almacenamiento temporal de datos para agilizar el acceso a las últimas páginas visitadas por el usuario.
+                        </p>  
+                        <p class="parrafo5">
+                            <p class="parrafo">
+                               <h1 class="titulo"> Cookie</h1>
+                               Se trata de pequeños archivos con datos que algunos sitios web almacenan de forma automática en el navegador del usuario. Suelen utilizarse para conocer las preferencias de los usuarios.
+                            </p>      
+                            <p class="parrafo6">
+                                <p class="parrafo">
+                                   <h1 class="titulo">Direccion ip</h1>
+                                   Número que identifica nuestro ordenador en la red. Está compuesta de cuatro números separados por puntos ( por ejemplo 157.135.7.43).
+                                </p>   
+                                <p class="parrafo7">
+                                    <p class="parrafo">
+                                       <h1 class="titulo">FAQ</h1>
+                                       Son las siglas de “Frequently Asked Questions”. Significa: Preguntas más frecuentes. Es una lista de pregunta y respuestas. Se recogen las respuestas a las preguntas más comunes sobre algún tema en particular.
+                                    </p>  
+                                    <p class="parrafo8">
+                                        <p class="parrafo">
+                                           <h1 class="titulo">Freeware</h1>
+                                           Se refiere al programa que se pueden descargar de forma gratuita desde Internet.
+                                        </p>  
+                                        <p class="parrafo8">
+                                            <p class="parrafo">
+                                               <h1 class="titulo">Hacker</h1>
+                                               Se le conoce con este nombre a la persona que tiene un conocimiento avanzado acerca del funcionamiento de redes informáticas de forma que puede advertir los errores y fallas de seguridad del mismo.
+                                            </p>        
+                                          
+</html>
