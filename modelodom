@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+        <head>
+            <meta charset="UTF-8"/>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+            <meta name "viewport" content="width=device.width, initial-scal">
+            <title>Que es el modelo DOM</title>
+            </title>
+                <link rel="stylesheet" href="/estilodom.css">
+        </head>
+        <body class="fondo">
+            <h1 class="DOM">Modelo Dom</h1>
+            <h1>________________________________________________________________________________________________________________________________</h1>
+        </body>
+        <section class="introduccion">
+            <h2 class="titulo">¿Qué es el DOM?</h2>
+            <p class="parrafo">
+                DOM significa Document Object Model, en español sería Modelo de Objetos del Documento. Es una interfaz de programación que nos permite crear, cambiar, o remover elementos del documento. También podemos agregar eventos a esos elementos para hacer más dinámica nuestra página.
+
+                El DOM visualiza el documento de HTML como un árbol de tres nodos. Un nodo representa un documento de HTML.
+
+                Echemos un vistazo a este código de HTML para entender mejor la estructura de árbol del DOM.
+
+            </p>
+
+        </section>
+        <img class="dom" src="/imagenes/dom.png" alt="foto">
+
+        <p class="parrafo2">
+            <p class="parrafo">
+                Nuestro documento se llama nodo raíz y contiene un nodo hijo el cual es el elemento html. El elemento html contiene dos hijos los cuales son los elementos <head> y <body>.
+
+                    Ambos elementos head y body tienen hijos propios.
+                    
+                    Aquí hay otra forma de visualizar este árbol de nodos.
+
+            </p>
+
+        </p>
+        <img class="dom" src="/imagenes/Document.jpg" alt="foto">
+        <p class="parrafo3">
+            <p class="parrafo">
+                Podemos acceder a estos elementos en el documento y hacer cambios a ellos usando JavaScript.
+
+                 Veamos algunos  ejemplos de como podemos trabajar con el DOM usando JavaScript.
+
+            </p>
+
+            <section class="introduccion">
+                <h2 class="titulo">Como seleccionar Elementos en el Documento</h2>
+                <p class="parrafo">
+                    Hay diferentes  métodos para seleccionar un elemento en el documento de HTML.
+
+                    En este artículo, nos enfocaremos en tres de esos métodos:
+
+                    getElementById()
+                    querySelector()
+                    querySelectorAll()
+                    getElementById()
+                    En HTML, los ids se utilizan como identificadores únicos para los elementos HTML. Esto significa que no podemos tener el mismo nombre de id para dos elementos diferentes.
+                        
+                </p>
+
+</html>
