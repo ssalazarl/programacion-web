@@ -1,0 +1,104 @@
+<DOCTYPE html>
+    <html lang="es">
+        <head>
+            <meta charset="UTF-8"/>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+            <meta name "viewport" content="width=device.width, initial-scal">
+            <title>Portafolio con estilo</title>
+                <link rel="stylesheet" href="/miestilo.css">
+        </head>
+        <body class="fondo">
+            <img class="fotomia" src="/imagenes/yo.jpg" alt="fotografia">
+            <header class="fondo2">
+                <h1>sebastian salazar leon</h1>
+               
+                <img class="logoIUE" src="imagenes/iue.png" alt="logoIUE">
+                <h1>Email: Sebastiansalazar669@gmail.com</h1>
+                <h2>Githud: ssalazarl</h2>
+                <h2>Githud:
+                    <a href="https://github.com/ssalazarl/programacion-web">github</a>
+                </h2>
+                <h2>neocities:
+                    <a href="https://ssalazarl.neocities.org/">neocities</a></h2>
+            </header>
+             
+            <section class="presentacion">
+                <h2 class="titulopres">presentacion</h2>
+                <p class="parrafo">
+                    soy estudiante de la iue , clase de programcion web,
+                    portafolio para anexar todos los talleres ,consulta,etc 
+
+                </p>
+
+            </section>
+                
+                
+                  <section class="marco">
+                   <article class="diseño">
+                    <h2 class="titulo1">Diseño</h2>
+                    <ul class="marco1">
+                        <li>
+                            <a href="https://www.figma.com/file/8kY7ZoWEY6V9SE0XGRvbAm/wireframe_demo?node-id=23%3A41&t=BV6BwL1Jk1fsXYKP-0">
+                                diseño portafolio
+                                
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.figma.com/file/8kY7ZoWEY6V9SE0XGRvbAm/wireframe_demo?node-id=11%3A22&t=6wfLKcTAExQ6gzsS-0">
+                                diseño hoja de vida
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://127.0.0.1:5500/HojaDeVida.html">Pagina web sebastian salazar</a>
+                        </li>
+                        <li>diseño 4</li>
+                        <li>diseño 5</li>
+
+                    </ul>
+
+                   </article>
+
+                   <article class="consultas">
+                    <h2 class="tutilo2">consultas</h2>
+                    <ul class="marco2">
+                        <li><a href="http://127.0.0.1:5500/Modelodom.html">consulta modelo Dom</a></li>
+                        <li><a href="http://127.0.0.1:5500/internet.html">terminoas de internet</a></li>
+                        <li>consulta 3</li>
+                        <li>consulta 4</li>
+                        <li>consulta 5</li>
+
+                    </ul>
+                </article>
+
+                <article class="talleres">
+                    <h2 class="titulo3">talleres</h2>
+                    <ul class="marco3">
+                        <li>taller 1</li>
+                        <li>taller 2</li>
+                        <li>taller 3</li>
+                        <li>taller 4</li>
+                        <li>taller 5</li>
+                    </ul>
+                </article>
+
+                <article class="retos">
+                    <h2 class="titulo4">Retos</h2>
+                    <ul class="marco4">
+                        <li>reto 1</li>
+                        <li>reto 2</li>
+                        <li>reto 3</li>
+                        <li>reto 4</li>
+                        <li>reto 5</li>
+
+                    </ul>
+                </article>
+
+
+                <section>
+                    
+
+                
+            
+        </body>
+
+    </html>
